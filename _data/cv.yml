@@ -1,9 +1,7 @@
 cv:
   name: Iffat Nowshin
-  label: Lecturer, Electrical and Electronic Engineering
   location: Dhaka, Bangladesh
-  summary: Lecturer in the Department of Electrical and Electronic Engineering (EEE) with a strong research focus on Renewable Energy, Power Electronics, and Applied Machine Learning. Key areas include the optimization of photovoltaic (PV) systems, advanced inverter topologies for grid-connected energy harvesting, and techno-economic analysis of hybrid energy systems.
-
+  email: iffatnowshin@iut-dhaka.edu
   social_networks:
     - network: LinkedIn
       username: iffat-nowshin
@@ -11,6 +9,11 @@ cv:
       username: Iffat Nowshin
 
   sections:
+    summary:
+      - Lecturer in the Department of Electrical and Electronic Engineering (EEE) with a strong research focus on Renewable Energy, Power Electronics, and Applied Machine Learning.
+      - Optimization of photovoltaic (PV) systems, advanced inverter topologies for grid-connected energy harvesting, and techno-economic analysis of hybrid energy systems.
+      - Currently serving as a Lecturer in the Department of Electrical and Electronic Engineering (EEE) at Northern University Bangladesh.
+
     Education:
       - institution: Islamic University of Technology (IUT)
         location: Gazipur, Bangladesh
@@ -27,14 +30,14 @@ cv:
         location: Dhaka, Bangladesh
         start_date: "2024-10"
         end_date: "present"
-        summary: Teaching and academic research in EEE.
 
       - company: University of Scholars
-        position: Lecturer
+        position: Lecturer, Department of Electrical and Electronic Engineering (EEE)
         location: Dhaka, Bangladesh
         start_date: "2024-09"
         end_date: "2024-10"
-        summary: Teaching and academic research.
+
+    Volunteer: []
 
     Publications:
       - title: "Enhancing solar panel performance: A machine learning approach to dust detection and automated water sprinkle-based cleaning strategy"
